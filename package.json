@@ -1,7 +1,7 @@
 {
-  "name": "fullstack-template",
+  "name": "recipe-app",
   "version": "1.0.0",
-  "description": "Starter template for future projects",
+  "description": "Recipe App",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
